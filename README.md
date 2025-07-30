@@ -25,4 +25,4 @@ AxleHost is a startup I co-founded in November 2023. We provide reliable game se
 - Developed teamwork, task management, and quick decision-making in a fast-moving environment  
 - Strengthened communication and coordination while adapting to real-world business challenges
 
-![AxleHost Logo](https://github.com/user-attachments/assets/c7ed8b63-62ab-46f8-bfb2-f21324e71113/your-image-file.png)
+ ![AxleHost Logo](https://github.com/user-attachments/assets/c7ed8b63-62ab-46f8-bfb2-f21324e71113)
